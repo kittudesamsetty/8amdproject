@@ -1,1 +1,7 @@
+
 Welcome to CloudDevops!
+
+
+welcome to GIT 
+welcome to Maven
+
